@@ -56,7 +56,7 @@ The application is built with a simple and interactive UI so that anyone can upl
 ![Stats](screenshots/stats.png)
 
 ### Word Cloud Analysis
-![Wordcloud](wordcloud.png)
+![Wordcloud](screenshots/wordcloud.png)
 
 ### Emoji Analysis
 ![Emoji](screenshots/emoji.png)
