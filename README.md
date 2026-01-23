@@ -2,7 +2,7 @@
 
 A Python + Streamlit web application to extract meaningful insights and visualizations from exported WhatsApp chat data.
 
-🚀 Live App: (https://whatsapp-chat-analyzer-x50o.onrender.com/)
+🚀 Live App: https://whatsapp-chat-analyzer-x50o.onrender.com/
 
 ---
 
