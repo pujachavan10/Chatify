@@ -60,7 +60,3 @@ The application is built with a simple and interactive UI so that anyone can upl
 
 ### Emoji Analysis
 ![Emoji](screenshots/emoji.png)
-
-
-
-
