@@ -5,7 +5,6 @@ A Python + Streamlit web application to extract meaningful insights and visualiz
 🚀 Live App: https://whatsapp-chat-analyzer-x50o.onrender.com/
 
 ---
-
 ## 📌 Overview
 
 Analyzing large WhatsApp chats manually is time-consuming and error-prone. This project automates the process by converting raw chat text files into structured data and generating useful statistics and visual insights such as activity trends, most active users, common words, and emoji usage.
