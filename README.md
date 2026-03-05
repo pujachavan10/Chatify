@@ -18,6 +18,14 @@ The application provides an interactive dashboard where users can upload chat fi
 
 ---
 
+## 🔍 What This Project Demonstrates
+
+• Building user-facing AI tools  
+• Transforming data into actionable insights  
+• Designing simple AI-powered product experiences
+
+---
+
 # ✨ Features
 
 • Upload exported WhatsApp `.txt` chat files  
