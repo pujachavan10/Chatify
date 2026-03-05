@@ -69,16 +69,6 @@ Future enhancements could include:
 
 ---
 
-# 🖼 Screenshots
-
-(Add screenshots here)
-
----
-
-# 🎯 Learning Outcome
-
-This project explores how **natural language processing and data analytics can transform conversational data into meaningful insights**, demonstrating how AI tools can help analyze communication patterns at scale.
-
 ## 🖼 Screenshots
 
 ### Homescreen
@@ -92,3 +82,9 @@ This project explores how **natural language processing and data analytics can t
 
 ### Emoji Analysis
 ![Emoji](screenshots/emoji.png)
+
+---
+
+# 🎯 Learning Outcome
+
+This project explores how **natural language processing and data analytics can transform conversational data into meaningful insights**, demonstrating how AI tools can help analyze communication patterns at scale.
